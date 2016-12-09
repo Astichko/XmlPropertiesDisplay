@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">XmlPropertiesDisplay</string>
+    <string name="language">Default Language</string>
+    <string name="orientation_portrait">Portrait</string>
+    <string name="orientation_land">Land</string>
+    <string name="size_not_found">Default Size</string>
+    <string name="size_small">Small</string>
+    <string name="size_normal">Normal</string>
+    <string name="size_large">Large</string>
+    <string name="size_xlarge">XLarge</string>
+
+</resources>
